@@ -1,0 +1,4 @@
+APP ORGANIZADA
+-> Nesta Aula, aprendemos como as aplicações ao serem desenvolvidas são organizadas
+primeiro ponto é que cada programador tem uma forma de organizar sua aplicação, porém, seguindo os modelos
+de empresas, temos o seguinte: pastas > arquivos > 
