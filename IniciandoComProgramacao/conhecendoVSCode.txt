@@ -1,0 +1,5 @@
+-> Nesta aula são abordados os principais pontos do programa VSCode, como criar pastas
+como executar os códigos criados, como criar os arquivos dos projetos que estamos criando em aulas,
+como elas refletem dentro das pastas, e etc.
+
+-> Temos a tecla de play, que é o executor do nosso código...
