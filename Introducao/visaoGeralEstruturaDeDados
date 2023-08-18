@@ -1,0 +1,21 @@
+ESTRUTURA DE DADOS
+
+-> A estrutura de dados visa organizar e administrar os dados recebidos, seu principal objetivo de 
+estrutura de dados é que exista uma coleção tanto de valores quanto de operações e sua implementação é concreta
+de um tipo abstrato de dado ou um tipo de dado básico ou primitivo.
+
+-> A estrutura básica de dados são:
+* int 
+* real 
+* letra 
+* bool 
+
+VARIÁVEIS E CONSTANTES
+
+-> Os dados são armazenados dentro de variáveis e constantes, além disso temos dentro das nossas variáveis e constantes, 
+os seguintes pontos: operações que são lógicas, aritmétics, relacionais, atribuição..
+
+-> Temos ainda a possibilidade de estruturas personalizadas pra mapear determinados pontos que desejamos
+atender a necessidade do cliente, projeto e etc.
+
+-> Em resumo, a estrutura de dados é o que administra, organiza, trás regras de como os dados precisam se comportar.

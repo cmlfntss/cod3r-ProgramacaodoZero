@@ -1,0 +1,22 @@
+VISÃO GERAL DO ALGORITMO
+
+-> Sequência de passos, que pode ser repetido os passos dessa sequência ou não. 
+Outro ponto importante é que dentro dessa sequência, podemos ter a tomada de 
+decisão dentro do nosso algoritmo.
+
+-> Abordado que a sequência de resultados ao falarmos de algoritmo e desenvolvimento é importante,
+ou seja, foco sempre em desenvolvimento coerente, com ordens de passos corretas.
+
+-> Algoritmos e dados: em resumo os algoritmos são as ações e os dados são os processamentos que 
+geram saídas.
+
+-> Representações de algoritmos:
+* fluxograma;
+* linguagem natural (português, inglês, alemão e etc.)
+* linguagem artificial(são as linguagens de programação: c# java, js, go, python, php..)
+* pseudo-linguagem (algoritmo 'SomaDeDoisValores', declare, soma, a, b, c: inteiro)
+
+ALGORITMO VERSUS LINGUAGEM 
+
+-> Baixo nível: é a linguagem mais próxima do computador
+-> Alto nível: é a linguagem mais próxima do programador (java, php, js, go, etc..)
