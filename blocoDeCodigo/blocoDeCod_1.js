@@ -22,3 +22,7 @@
     ;
 }*/
 console.log("Fim!!")
+
+/*O código de um programa é organizado em pastas, arquivos (que dentro deles), existem sentenças de códigos
+com blocos
+*/
