@@ -3,8 +3,6 @@ SENTENÇA DE CÓDIGO:
 -> São o que podemos chamar de frases dentro do nosso contexto de código se colocarmos o português 
 puro.
 
-BLOCO DE CÓDIGO:
-
 -> Já o bloco são o que nós chamamos de parágrafos e eles compõem as frases.
 
 -> Em JS, uma sentença de código pode ou não terminar com ponto e vírgula.
@@ -19,3 +17,5 @@ console.log("nice!!!);
 espaço não interfere no nosso código.
 
 -> O computador lê os comandos sempre de cima pra baixo, de forma sequencial.
+
+
