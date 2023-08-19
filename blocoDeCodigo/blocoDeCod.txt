@@ -1,0 +1,13 @@
+BLOCO DE CÓDIGO:
+
+-> O bloco dentro da linguagem JS é definido atráves dos pares de chaves {}, podendo ser da seguinte maneira:
+{
+    AQUI É UM EXEMPLO DE BLOCO DE CÓDIGO
+    {
+        AQUI É OUTRO BLOCO DENTRO DO NOSSO PRIMEIRO BLOCO DE CÓDIGO
+        {
+            AQUI TEMOS OUTRO BLOCO
+        }
+    }
+}
+
