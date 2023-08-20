@@ -1,0 +1,8 @@
+/*
+   1) ARITMÉTICOS
+   2) RELACIONAIS
+   3) ATRIBUIÇÃO
+   4) LÓGICOS
+   5) UNÁRIOS
+   6) TERNÁRIO
+*/
